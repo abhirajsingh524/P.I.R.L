@@ -126,7 +126,7 @@ while count < 5:
     print(count)
     count += 1
 ```
-**Output:**
+**Output:**    
 ```
 0
 1
